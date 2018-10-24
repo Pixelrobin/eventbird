@@ -13,3 +13,11 @@
   max-width: 740px;
   padding: 2rem;
 }
+
+.eventbird-dropdown {
+  display: inline-block;
+
+  &__content .components-popover__content {
+    padding: 10px;
+  }
+}

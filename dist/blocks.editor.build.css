@@ -17,3 +17,8 @@
   margin: 0 auto;
   max-width: 740px;
   padding: 2rem; }
+
+.eventbird-dropdown {
+  display: inline-block; }
+  .eventbird-dropdown__content .components-popover__content {
+    padding: 10px; }
